@@ -1,0 +1,38 @@
+.card {
+    width: 180px;
+    margin-top: 10px;
+    border: 1px solid #e3e3e3;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgb(0 0 0 / 10%);
+}
+
+.card h2 {
+    font-size: 1rem;
+}
+
+.card h2 a {
+    color: #000;
+    text-decoration: none;
+}
+
+.poster {
+    display: block;
+}
+
+.poster img {
+    width: 100%;
+}
+
+.content {
+    padding: 10px;
+}
+
+.content h2 {
+    margin: 5px;
+}
+
+.content p {
+    margin: 5px;
+    color: rgba(0,0,0,0.6);
+}

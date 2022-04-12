@@ -1,0 +1,6 @@
+.media-item-list-container {
+    flex: 6;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
